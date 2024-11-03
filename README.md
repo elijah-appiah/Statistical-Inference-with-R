@@ -69,5 +69,10 @@ Here is an outline of what is covered:
 12. Analyzing Categorical Data
     - Pearson's Chi-square Test, Fisher's Exact Test, Likelihood Ratio, Yate's Correction
     - Loglinear Analysis
+13. Multilevel Linear Models
+    - Hierarchical Data
+    - Theory of Multilevel Linear Models
+    - Multilevel Modeling in R
+    - Growth Models
 
 ### Be sure to subscribe to my [YouTube Channel](https://www.youtube.com/c/@ElijahAppiah) and activate the notification bell to receive the alert whenever I post a video. More interesting lessons are coming!
