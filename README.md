@@ -2,7 +2,9 @@
 ### Master statistics with serious practical implementation in R
 
 <hr>
+
 ![Stat Inference](https://github.com/elijah-appiah/Statistical-Inference-with-R/blob/main/stat%20inference%20cover%20image.png)
+
 <hr>
 <hr>
 
