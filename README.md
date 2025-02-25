@@ -14,7 +14,7 @@
    - Data and Variable Types
    - Statistical Explorations and Summaries (Numeric and Categorical)
    - Measures of Central Tendency
-   - Measures of Spread
+   - Measures of Spread 
    - Robust Statistics
    - Data Transformation	
 2. **Foundations of Probability**
