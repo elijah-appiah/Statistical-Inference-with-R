@@ -10,7 +10,7 @@
 
 ### Here is an outline of what is covered:
 
-1. **Introduction to Data and Statistics**   
+1. **Introduction to Data and Statistics**
    - Data and Variable Types
    - Statistical Explorations and Summaries (Numeric and Categorical)
    - Measures of Central Tendency
