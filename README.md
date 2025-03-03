@@ -12,7 +12,7 @@
 
 1. **Introduction to Data and Statistics**
    - Data and Variable Types
-   - Statistical Explorations and Summaries (Numeric and Categorical)
+   - Statistical Explorations and Summaries (Numeric and Categorical) 
    - Measures of Central Tendency
    - Measures of Spread
    - Robust Statistics
