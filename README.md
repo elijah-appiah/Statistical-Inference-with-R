@@ -8,7 +8,7 @@
 <hr>
 <hr>
 
-### Here is an outline of what is covered:
+### Here is an outline of what is covered: 
 
 1. **Introduction to Data and Statistics**
    - Data and Variable Types
